@@ -3,7 +3,7 @@ body {
   background-color: #000;
 }
 main::after {
-  content: "kkkkk";
+  content: "";
   position: fixed;
   top: 0;
   left: 0;
